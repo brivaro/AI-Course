@@ -17,7 +17,7 @@ export const VideoResource: React.FC = () => {
                     ></iframe>
                 </div>
                 <div className="mt-6 text-center">
-                    <h3 className="text-xl font-bold">Introducción a CrewAI</h3>
+                    <h3 className="text-xl font-bold">Vídeo para abrir boca!</h3>
                     <p className="text-gray-400 mt-2">
                         Este vídeo proporciona una excelente introducción a noticias sobre la inteligencia artificial.
                     </p>

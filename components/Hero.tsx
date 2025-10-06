@@ -16,7 +16,7 @@ export const Hero: React.FC = () => {
       </div>
       
       <div className="flex justify-center">
-        <h1 className="text-5xl sm:text-6xl md:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 tracking-tight font-mono typewriter-text">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 tracking-tight font-mono typewriter-text">
           Crear Agentes de IA
         </h1>
       </div>
